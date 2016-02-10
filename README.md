@@ -1,3 +1,26 @@
+Solution to FSL Code Exercise
+
+//Exercise 1
+/*
+* Lack of input validation (Typing letter will cause unhandled error)
+* Negative number can be passed to width
+* Shape object needs initialization every time
+* Bad naming, for example Area sounds like filed or property. It is hard to recognize what it does without analizing code inside
+*/
+
+//Exersise 2
+/*
+* Inside code. Shortly added input validation, units tests and Singleton based solution
+*/
+
+//Exercise 3
+/*
+* Imporove thread safety
+* Separate input validation for further use
+* Add validation tests
+* Add InvalidProgramException handling
+*/
+
 FSL Code Exercise
 =================
 
