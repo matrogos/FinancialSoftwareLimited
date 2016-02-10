@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSLCodeExercise.Start", "FSLCodeExercise.Start\FSLCodeExercise.Start.csproj", "{A94BEC8F-F9ED-465B-936B-F68F28DB97D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSLCodeExerciseTestProject", "FSLCodeExerciseTestProject\FSLCodeExerciseTestProject.csproj", "{13D62089-57D1-41A5-83BB-07CBD3D18276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94BEC8F-F9ED-465B-936B-F68F28DB97D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94BEC8F-F9ED-465B-936B-F68F28DB97D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94BEC8F-F9ED-465B-936B-F68F28DB97D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94BEC8F-F9ED-465B-936B-F68F28DB97D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D62089-57D1-41A5-83BB-07CBD3D18276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D62089-57D1-41A5-83BB-07CBD3D18276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D62089-57D1-41A5-83BB-07CBD3D18276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D62089-57D1-41A5-83BB-07CBD3D18276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
